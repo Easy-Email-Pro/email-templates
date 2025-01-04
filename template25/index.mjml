@@ -1,0 +1,104 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY Z-PATTERN
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Raleway:400,700" name="Raleway"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Raleway, Arial, sans-serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f2f2f2">
+    <mj-raw>
+      <!-- 顶部横幅 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="10px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          BLACK FRIDAY DEALS START NOW! 🔥
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Logo区域 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Z布局第一行 -->
+    </mj-raw>
+    <mj-section background-color="#000000">
+      <mj-column width="60%">
+        <mj-image alt="Hero" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591845834064_photo-1607082349566-187342175e2f_w_600.png"></mj-image>
+      </mj-column>
+      <mj-column padding="20px" width="40%">
+        <mj-text align="left" color="#ffffff" font-size="36px" font-weight="bold">
+          BLACK FRIDAY
+        </mj-text>
+        <mj-text align="left" color="#ffffff" font-size="20px" padding-top="10px">
+          UP TO 70% OFF
+        </mj-text>
+        <mj-button align="left" background-color="#ff0000" color="#ffffff">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Z布局第二行 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column padding="20px" width="40%">
+        <mj-text align="right" color="#000000" font-size="30px" font-weight="bold">
+          TECH DEALS
+        </mj-text>
+        <mj-text align="right" color="#ff0000" font-size="20px" padding-top="10px">
+          SAVE 60%
+        </mj-text>
+        <mj-button align="right" background-color="#000000" color="#ffffff">
+          EXPLORE
+        </mj-button>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="Tech" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591846352765_photo-1468495244123-6c6c332eeece_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Z布局第三行 -->
+    </mj-raw>
+    <mj-section background-color="#000000">
+      <mj-column width="60%">
+        <mj-image alt="Fashion" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591846622366_photo-1483985988355-763728e1935b_w_600.png"></mj-image>
+      </mj-column>
+      <mj-column padding="20px" width="40%">
+        <mj-text align="left" color="#ffffff" font-size="30px" font-weight="bold">
+          FASHION
+        </mj-text>
+        <mj-text align="left" color="#ff0000" font-size="20px" padding-top="10px">
+          SAVE 50%
+        </mj-text>
+        <mj-button align="left" background-color="#ff0000" color="#ffffff">
+          DISCOVER
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 优惠码区域 -->
+    </mj-raw>
+    <mj-section background-color="#ff0000" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-weight="bold">
+          USE CODE: ZBLACK
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-top="10px">
+          FOR EXTRA 15% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

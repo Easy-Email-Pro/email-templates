@@ -1,0 +1,116 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY ARTSY
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700" name="Caveat"></mj-font>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700" name="Amatic SC"></mj-font>
+    <mj-attributes>
+      <mj-text font-family="Caveat, cursive"></mj-text>
+      <mj-button font-family="Amatic SC, cursive"></mj-button>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#faf7f2">
+    <mj-raw>
+      <!-- 艺术标题区 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-family="Amatic SC" font-size="80px">
+          Black Friday
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-family="Caveat" font-size="30px">
+          Art & Design Sale
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 手绘风格主图 -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-image alt="Artsy" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591856176685_photo-1460661419201-fd4cecdf8a8b_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 艺术品类别 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image alt="Art Supplies" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591856581286_photo-1513364776144-60967b0f800f_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="26px" padding="10px">
+          Art Supplies
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="20px">
+          50% Off
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Canvas" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591856862687_photo-1459908676235-d5f02a50184b_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="26px" padding="10px">
+          Canvas
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="20px">
+          40% Off
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Brushes" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591857104588_photo-1452860606245-08befc0ff44b_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="26px" padding="10px">
+          Brushes
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="20px">
+          60% Off
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 手绘风格优惠码 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="40px">
+          Use Code: ARTSY
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="24px" padding-top="10px">
+          for extra 20% off
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 艺术家精选 -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column width="50%">
+        <mj-image alt="Artist Pick 1" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591857380489_photo-1513364776144-60967b0f800f_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px" padding="10px">
+          Watercolors
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Artist Pick 2" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591857685590_photo-1460661419201-fd4cecdf8a8b_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px" padding="10px">
+          Acrylics
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 艺术风格页脚 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          Create Something Beautiful
+        </mj-text>
+        <mj-social font-size="15px" icon-color="#ffffff" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="pinterest"></mj-social-element>
+          <mj-social-element href="#" name="youtube"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="16px" padding-top="20px">
+          © 2024 Artist's Corner
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

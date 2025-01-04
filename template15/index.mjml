@@ -1,0 +1,94 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Hop into Easter Joy!
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Comic+Sans+MS" name="Comic Sans MS"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Comic Sans MS, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#E6F9FF">
+    <mj-wrapper background-color="#ffffff" padding="0">
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#FFE5F4" padding-bottom="0">
+        <mj-column width="50%">
+          <mj-text align="left" color="#9B6B9E" font-size="36px" padding-bottom="0">
+            Hop Into
+          </mj-text>
+          <mj-text align="left" color="#9B6B9E" font-size="48px" font-weight="bold" padding-top="0">
+            Easter Joy!
+          </mj-text>
+          <mj-button background-color="#9B6B9E" border-radius="30px" href="#">
+            Shop Easter Collection
+          </mj-button>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image alt="Easter Eggs" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/8hercblsxeemnvkuxkhnv_image.png"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-text align="center" color="#9B6B9E" font-size="24px" font-weight="bold">
+            Easter Basket Must-Haves
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column width="25%">
+          <mj-image alt="Easter Item 1" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591827961524_photo-1521341057461-6eb5f40b07ab_w_200_h_200_fit_crop.png"></mj-image>
+          <mj-text align="center" color="#9B6B9E" font-size="16px">
+            Easter Treats
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image alt="Easter Item 2" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591828360725_photo-1552913903-2cffa1962dc7_w_200_h_200_fit_crop.png"></mj-image>
+          <mj-text align="center" color="#9B6B9E" font-size="16px">
+            Spring Decor
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image alt="Easter Item 3" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591828360725_photo-1552913903-2cffa1962dc7_w_200_h_200_fit_crop.png"></mj-image>
+          <mj-text align="center" color="#9B6B9E" font-size="16px">
+            Kids' Gifts
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image alt="Easter Item 4" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591828619026_photo-1557672172-298e090bd0f1_w_200_h_200_fit_crop.png"></mj-image>
+          <mj-text align="center" color="#9B6B9E" font-size="16px">
+            Easter Outfits
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#E6F9FF" padding="20px">
+        <mj-column>
+          <mj-text align="center" color="#9B6B9E" font-size="24px" font-weight="bold">
+            🐰 Easter Special 🐰
+          </mj-text>
+          <mj-text align="center" color="#9B6B9E" font-size="18px">
+            Use code: EASTERJOY
+          </mj-text>
+          <mj-text align="center" color="#9B6B9E" font-size="36px" font-weight="bold">
+            25% OFF
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column>
+          <mj-social font-size="15px" icon-color="#9B6B9E" icon-size="30px" mode="horizontal">
+            <mj-social-element href="#" name="facebook"></mj-social-element>
+            <mj-social-element href="#" name="instagram"></mj-social-element>
+            <mj-social-element href="#" name="twitter"></mj-social-element>
+          </mj-social>
+          <mj-text align="center" color="#666666" font-size="12px">
+            © 2024 Your Brand. All rights reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

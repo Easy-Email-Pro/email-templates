@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY MINIMALIST
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500" name="DM Sans"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="DM Sans, Arial, sans-serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-raw>
+      <!-- 极简标题区 -->
+    </mj-raw>
+    <mj-section background-color="#f8f8f8" padding="100px 0">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="14px" letter-spacing="2px">
+          BLACK FRIDAY
+        </mj-text>
+        <mj-text align="center" color="#000000" font-size="40px" padding="20px 0">
+          Less is more.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 简约产品展示 -->
+    </mj-raw>
+    <mj-section padding="40px">
+      <mj-column>
+        <mj-image alt="Product" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591852706379_photo-1523275335684-37898b6baf30_w_600.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="12px" letter-spacing="1px" padding="20px">
+          01 / TIMEPIECES
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 简约优惠信息 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="14px" letter-spacing="2px">
+          50% OFF ALL ITEMS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 极简产品网格 -->
+    </mj-raw>
+    <mj-section padding="2px">
+      <mj-column width="50%">
+        <mj-image alt="Audio" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591847587268_photo-1505740420928-5e560c06d30e_w_300.png"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Footwear" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591849305672_photo-1491553895911-0055eca6402d_w_300.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 简约页脚 -->
+    </mj-raw>
+    <mj-section padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="12px" letter-spacing="1px">
+          © 2024
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

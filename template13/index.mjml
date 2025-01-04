@@ -1,0 +1,112 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Welcome 2024 - New Year, New Beginnings!
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Helvetica" name="Helvetica"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f4f4f4">
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column>
+        <mj-image alt="New Year Celebration" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591824498016_photo-1467810563316-b5476525c0f9_w_800_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#1B1B1B" font-size="30px" font-weight="bold" padding-top="20px">
+          Celebrate The New Year In Style
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px" line-height="24px">
+          Start 2024 with amazing deals and new collections
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Featured Products -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column width="50%">
+        <mj-image alt="New Collection" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591824862917_photo-1513519245088-0e12902e5a38_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#1B1B1B" font-size="20px" font-weight="bold">
+          New Year Collection
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="15px">
+          Up to 40% OFF
+        </mj-text>
+        <mj-button background-color="#2C5282" color="white" href="#">
+          Shop Now
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Bestsellers" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591825139118_photo-1543007630-9710e4a00a20_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#1B1B1B" font-size="20px" font-weight="bold">
+          Bestsellers 2023
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="15px">
+          Special Prices
+        </mj-text>
+        <mj-button background-color="#2C5282" color="white" href="#">
+          Shop Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- New Year Countdown -->
+    </mj-raw>
+    <mj-section background-color="#2C5282">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-weight="bold">
+          New Year Special Offer
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="16px">
+          Extra 20% OFF on orders above $100
+        </mj-text>
+        <mj-button background-color="#ffffff" color="#2C5282" href="#">
+          Use Code: HAPPY2024
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Message Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" color="#666666" font-size="16px" line-height="24px">
+          Thank you for being with us in 2023. We're excited to bring you more amazing products and experiences in 2024!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#1B1B1B">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          Follow Us
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="twitter"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          You received this email because you signed up for our newsletter.
+          <a href="#" style="color: white;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,117 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Cheers to summer!
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Helvetica" name="Helvetica"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fafafa">
+    <mj-wrapper background-color="#ffffff">
+      <mj-raw>
+        <!-- Header -->
+      </mj-raw>
+      <mj-section padding="20px">
+        <mj-column>
+          <mj-image align="left" alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-navbar>
+            <mj-navbar-link color="#000" href="#">
+              SHOP
+            </mj-navbar-link>
+            <mj-navbar-link color="#000" href="#">
+              ABOUT
+            </mj-navbar-link>
+            <mj-navbar-link color="#000" href="#">
+              CONTACT
+            </mj-navbar-link>
+            <mj-navbar-link color="#000" href="#">
+              BLOG
+            </mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Hero Section -->
+      </mj-raw>
+      <mj-section padding="0 20px">
+        <mj-column>
+          <mj-text align="center" color="#000000" font-size="24px">
+            Cheers to summer!
+          </mj-text>
+          <mj-text align="center" color="#000000">
+            Get ready to host your next family gathering.<br />
+            Save up to 15% on EVERYTHING storewide.
+          </mj-text>
+          <mj-button background-color="#4A2512" color="white" href="#">
+            SHOP ALL
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Main Image -->
+      </mj-raw>
+      <mj-section padding="0 20px">
+        <mj-column>
+          <mj-image alt="Family Dinner" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hfbculirg8bin9ddnnawe_image.png"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Products Section -->
+      </mj-raw>
+      <mj-section padding="20px">
+        <mj-column width="50%">
+          <mj-text color="#000000" font-size="20px">
+            Products made to last
+          </mj-text>
+          <mj-text color="#000000">
+            We use quality, non-toxic materials for you and your family.
+          </mj-text>
+          <mj-button background-color="#4A2512" color="white" href="#">
+            Start browsing
+          </mj-button>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image alt="Kitchen Utensils" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/19lwfnaxluotystpvnhdj_image.png"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Aesthetic Section -->
+      </mj-raw>
+      <mj-section padding="20px">
+        <mj-column width="50%">
+          <mj-image alt="Kitchen Items" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/oi9fic_qgych3ogiirzz7_image.png"></mj-image>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text color="#000000" font-size="20px">
+            Find your perfect aesthetic
+          </mj-text>
+          <mj-text color="#000000">
+            Mix & match or shop our bundles.
+          </mj-text>
+          <mj-button background-color="#4A2512" color="white" href="#">
+            Shop bundles
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Footer -->
+      </mj-raw>
+      <mj-section background-color="#4A2512" padding="20px">
+        <mj-column>
+          <mj-social align="center" font-size="15px" icon-size="30px" mode="horizontal">
+            <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/mfpkmlhg2mva_os9dl4p1_image.png"></mj-social-element>
+            <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bc9v51iia1minm3_7hoz_image.png"></mj-social-element>
+            <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yalfxko4tea86assl7rfg_image.png"></mj-social-element>
+          </mj-social>
+          <mj-text align="center" color="white" font-size="12px">
+            No longer want to receive these emails? <a href="#" class="link-nostyle" style="color: white;">unsubscribe</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

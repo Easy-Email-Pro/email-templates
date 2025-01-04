@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY VINTAGE
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:wght@400;700" name="Old Standard TT"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Old Standard TT, Georgia, serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+    <mj-style>
+      .vintage-border {
+      border: 2px solid #2b2b2b;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f4e4bc">
+    <mj-raw>
+      <!-- 复古标题区 -->
+    </mj-raw>
+    <mj-section background-color="#2b2b2b" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#f4e4bc" font-size="60px" font-weight="bold">
+          BLACK FRIDAY
+        </mj-text>
+        <mj-text align="center" color="#f4e4bc" font-size="20px" font-style="italic">
+          EST. 2024
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 复古装饰元素 - 使用通用的分隔线替代装饰图片 -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-divider border-color="#2b2b2b" border-style="solid" border-width="2px" width="100px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 复古产品展示 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="50%">
+        <mj-image alt="Vintage Watch" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591853997680_photo-1539874754764-5a96559165b0_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2b2b2b" font-size="24px" padding="20px">
+          TIMEPIECES
+        </mj-text>
+        <mj-text align="center" color="#2b2b2b" font-size="16px">
+          Since 1920
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Vintage Audio" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591854644681_photo-1487180144351-b8472da7d491_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2b2b2b" font-size="24px" padding="20px">
+          PHONOGRAPHS
+        </mj-text>
+        <mj-text align="center" color="#2b2b2b" font-size="16px">
+          Classic Collection
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 复古风格产品类别 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image alt="Vintage Cameras" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591854926982_photo-1464820453369-31d2c0b651af_w_300_h_200_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2b2b2b" font-size="18px" padding="10px">
+          CAMERAS
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Vintage Furniture" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591855196583_photo-1519340241574-2cec6aef0c01_w_300_h_200_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2b2b2b" font-size="18px" padding="10px">
+          FURNITURE
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Vintage Accessories" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591855503584_photo-1492707892479-7bc8d5a4ee93_w_300_h_200_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2b2b2b" font-size="18px" padding="10px">
+          ACCESSORIES
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 复古优惠信息 -->
+    </mj-raw>
+    <mj-section background-color="#2b2b2b" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#f4e4bc" font-size="30px">
+          SAVE UP TO 70%
+        </mj-text>
+        <mj-text align="center" color="#f4e4bc" font-size="18px" padding-top="10px">
+          Use Code: VINTAGE24
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 复古风格服务承诺 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="30px">
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#2b2b2b" font-size="16px">
+          AUTHENTIC PIECES
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#2b2b2b" font-size="16px">
+          WORLDWIDE SHIPPING
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#2b2b2b" font-size="16px">
+          QUALITY GUARANTEED
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 复古页脚 -->
+    </mj-raw>
+    <mj-section padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#2b2b2b" font-size="16px" font-style="italic">
+          Established in the tradition of excellence
+        </mj-text>
+        <mj-divider border-color="#2b2b2b" border-style="solid" border-width="1px" padding="20px 0" width="50px"></mj-divider>
+        <mj-text align="center" color="#2b2b2b" font-size="14px">
+          © 2024 Your Vintage Brand
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

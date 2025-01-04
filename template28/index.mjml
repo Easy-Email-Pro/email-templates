@@ -1,0 +1,168 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY MAGAZINE STYLE
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700" name="Bodoni Moda"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Bodoni Moda, Georgia, serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-raw>
+      <!-- 杂志式标题区 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="12px" letter-spacing="2px">
+          THE STYLE EDIT
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="72px" font-weight="bold" padding="20px 0">
+          NOIR
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-style="italic">
+          BLACK FRIDAY EDITION
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 主图区域 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image alt="Fashion Cover" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591850883275_photo-1483985988355-763728e1935b_w_600_h_800_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="12px" letter-spacing="1px" padding="10px">
+          PHOTOGRAPHY BY STUDIO NOIR
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 杂志式内容区 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="36px" font-weight="bold">
+          THE BLACK COLLECTION
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px" line-height="24px" padding="20px">
+          Discover our curated selection of luxury pieces at unprecedented prices. For a limited time only.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 杂志式产品展示 -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column width="50%">
+        <mj-image alt="Watches" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591851355976_photo-1523275335684-37898b6baf30_w_400.png"></mj-image>
+        <mj-text align="left" color="#000000" font-size="20px" padding="10px">
+          01. TIMEPIECES
+        </mj-text>
+        <mj-text align="left" color="#666666" font-size="14px" padding="0 10px">
+          Classic designs with modern sophistication
+        </mj-text>
+        <mj-text align="left" color="#000000" font-size="16px" font-weight="bold" padding="10px">
+          UP TO 60% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Audio" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591851627977_photo-1505740420928-5e560c06d30e_w_400.png"></mj-image>
+        <mj-text align="left" color="#000000" font-size="20px" padding="10px">
+          02. AUDIO
+        </mj-text>
+        <mj-text align="left" color="#666666" font-size="14px" padding="0 10px">
+          Premium sound for the discerning listener
+        </mj-text>
+        <mj-text align="left" color="#000000" font-size="16px" font-weight="bold" padding="10px">
+          UP TO 50% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 优雅分隔线 -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-divider border-color="#000000" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 特别企划区 -->
+    </mj-raw>
+    <mj-section background-color="#f8f8f8" padding="40px">
+      <mj-column width="40%">
+        <mj-text align="right" color="#000000" font-size="24px" font-weight="bold">
+          EDITOR'S PICK
+        </mj-text>
+        <mj-text align="right" color="#666666" font-size="16px" padding-top="10px">
+          Carefully selected pieces for the modern connoisseur
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="Editor's Pick" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591851922378_photo-1491553895911-0055eca6402d_w_500.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 优惠码区域 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="12px" letter-spacing="2px">
+          EXCLUSIVE OFFER
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-style="italic" padding="20px">
+          Use Code: NOIRMAG
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="16px">
+          For an additional 20% off
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 杂志式分类导航 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="30px">
+      <mj-column width="25%">
+        <mj-text align="center" color="#000000" font-size="14px" letter-spacing="1px">
+          WOMEN
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-text align="center" color="#000000" font-size="14px" letter-spacing="1px">
+          MEN
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-text align="center" color="#000000" font-size="14px" letter-spacing="1px">
+          ACCESSORIES
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-text align="center" color="#000000" font-size="14px" letter-spacing="1px">
+          BEAUTY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 杂志式页脚 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-weight="bold">
+          THE STYLE EDIT
+        </mj-text>
+        <mj-social font-size="15px" icon-color="#ffffff" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="pinterest"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px" letter-spacing="1px" padding-top="20px">
+          © 2024 Your Luxury Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

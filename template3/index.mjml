@@ -1,0 +1,138 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Discover Our Artisanal Coffee Collection
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700" name="Playfair Display"></mj-font>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700" name="Lato"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Lato, Arial, sans-serif"></mj-all>
+      <mj-text font-size="16px" font-weight="300" line-height="1.6"></mj-text>
+      <mj-wrapper background-color="#F5F3EF" padding="0"></mj-wrapper>
+    </mj-attributes>
+    <mj-style>
+      .playfair { font-family: 'Playfair Display', serif; }
+      .link-nostyle { color: inherit; text-decoration: none; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-raw>
+      <!-- Main Content Wrapper -->
+    </mj-raw>
+    <mj-wrapper>
+      <mj-raw>
+        <!-- Header -->
+      </mj-raw>
+      <mj-section padding="20px">
+        <mj-column>
+          <mj-image alt="Restaurant Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Hero Section -->
+      </mj-raw>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image alt="Coffee Hero" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/f2awkpbykjlgci-ksdfhh_image.png"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-raw>
+      <!-- Welcome Text -->
+    </mj-raw>
+    <mj-wrapper></mj-wrapper>
+    <mj-raw>
+      <!-- Featured Products (Light Background) -->
+    </mj-raw>
+    <mj-wrapper background-color="#F5F3EF">
+      <mj-section padding-top="40px">
+        <mj-column padding="10px" width="50%">
+          <mj-image src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/zogjzzskdt59aofu3yxsa_image.png"></mj-image>
+          <mj-text align="center" color="#2C1810" font-family="Playfair Display" font-size="24px">
+            Single Origin
+          </mj-text>
+          <mj-text align="center" color="#5E4D44">
+            Experience the unique flavors of our single-origin beans.
+          </mj-text>
+          <mj-button background-color="transparent" border="1px solid #8B5E3C" color="#8B5E3C" href="#">
+            SHOP NOW
+          </mj-button>
+        </mj-column>
+        <mj-column padding="10px" width="50%">
+          <mj-image alt="Brewing Equipment" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/jgn4ce6kkdlybrmm-4pso_image.png"></mj-image>
+          <mj-text align="center" color="#2C1810" font-family="Playfair Display" font-size="24px">
+            Brewing Essentials
+          </mj-text>
+          <mj-text align="center" color="#5E4D44">
+            Elevate your coffee ritual with our premium brewing equipment.
+          </mj-text>
+          <mj-button background-color="transparent" border="1px solid #8B5E3C" color="#8B5E3C" href="#">
+            DISCOVER MORE
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-raw>
+      <!-- Special Offer (Dark Background) -->
+    </mj-raw>
+    <mj-wrapper background-color="#2C1810">
+      <mj-section padding-bottom="40px" padding-top="40px">
+        <mj-column>
+          <mj-text align="center" color="white" font-family="Playfair Display" font-size="28px">
+            Special Offer
+          </mj-text>
+          <mj-text align="center" color="#E6DDD4">
+            Enjoy 15% off your first order with code: FIRSTBREW
+          </mj-text>
+          <mj-button background-color="#E6DDD4" color="#2C1810" font-family="Lato" font-weight="700" href="#">
+            CLAIM OFFER
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-raw>
+      <!-- Instagram Feed (Light Background) -->
+    </mj-raw>
+    <mj-wrapper background-color="#F5F3EF">
+      <mj-section padding-bottom="20px" padding-top="40px">
+        <mj-column>
+          <mj-text align="center" color="#2C1810" font-family="Playfair Display" font-size="24px">
+            Follow Our Journey
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-column padding="5px" width="33.33%">
+          <mj-image alt="Instagram 1" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/f2awkpbykjlgci-ksdfhh_image.png"></mj-image>
+        </mj-column>
+        <mj-column padding="5px" width="33.33%">
+          <mj-image alt="Instagram 2" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/zogjzzskdt59aofu3yxsa_image.png"></mj-image>
+        </mj-column>
+        <mj-column padding="5px" width="33.33%">
+          <mj-image alt="Instagram 3" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/jgn4ce6kkdlybrmm-4pso_image.png"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-raw>
+      <!-- Footer (Dark Background) -->
+    </mj-raw>
+    <mj-wrapper background-color="#2C1810">
+      <mj-section padding-top="40px">
+        <mj-column>
+          <mj-social align="center" font-size="15px" icon-size="30px" mode="horizontal">
+            <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/mfpkmlhg2mva_os9dl4p1_image.png"></mj-social-element>
+            <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bc9v51iia1minm3_7hoz_image.png"></mj-social-element>
+            <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yalfxko4tea86assl7rfg_image.png"></mj-social-element>
+          </mj-social>
+          <mj-text align="center" color="#E6DDD4" font-size="12px" padding-top="20px">
+            © 2024 Artisan Coffee Co. All rights reserved.
+          </mj-text>
+          <mj-text align="center" color="#E6DDD4" font-size="12px">
+            You're receiving this email because you subscribed to our newsletter.
+            <a href="#" class="link-nostyle" style="color: #E6DDD4; text-decoration: underline;">Unsubscribe</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

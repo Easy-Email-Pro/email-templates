@@ -1,0 +1,92 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Discover Your Next Adventure
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Helvetica" name="Helvetica"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f4f4f4">
+    <mj-raw>
+      <!-- Header Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" padding="20px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column>
+        <mj-image alt="Travel Hero" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591861690297_photo-1469854523086-cc02fe5d8800_w_600.png"></mj-image>
+        <mj-text align="center" color="#1A1A1A" font-size="30px" padding-top="20px">
+          Explore the World
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px">
+          Discover amazing destinations and unforgettable experiences
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Featured Destinations -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding-top="20px">
+      <mj-column width="33.33%">
+        <mj-image alt="Paris" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591862769998_photo-1533105079780-92b9be482077_w_600.png" width="200px"></mj-image>
+        <mj-text align="center" color="#1A1A1A" font-size="20px">
+          Paris
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="14px" padding-left="0px" padding-right="0px">
+          City of Light
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Tokyo" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591863331899_photo-1524231757912-21f4fe3a7200.png" width="200px"></mj-image>
+        <mj-text align="center" color="#1A1A1A" font-size="20px">
+          Tokyo
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="14px" padding-left="0px" padding-right="0px">
+          Modern Meets Traditional
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="New York" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918645916100_photo-1518509562904-e7ef99cdcc86_w_600.png" width="200px"></mj-image>
+        <mj-text align="center" color="#1A1A1A" font-size="20px">
+          New York
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="14px" padding-left="0px" padding-right="0px">
+          The City That Never Sleeps
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- CTA Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-button background-color="#1A1A1A" color="white" href="#">
+          Book Your Trip Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-social align="center" font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/mfpkmlhg2mva_os9dl4p1_image.png"></mj-social-element>
+          <mj-social-element name="twitter" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bc9v51iia1minm3_7hoz_image.png"></mj-social-element>
+          <mj-social-element name="instagram" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yalfxko4tea86assl7rfg_image.png"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#666666" font-size="12px">
+          © 2024 Travel Company. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

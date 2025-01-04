@@ -1,0 +1,126 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Organic Living Newsletter
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600" name="Crimson Text"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Crimson Text, serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#F5F1E9">
+    <mj-raw>
+      <!-- Curved Header -->
+    </mj-raw>
+    <mj-wrapper background-color="#86A97C" padding="0">
+      <mj-section padding-top="50px">
+        <mj-column>
+          <mj-image href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+          <mj-text align="center" color="#ffffff" font-size="32px">
+            Natural Living
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-raw>
+      <!-- Daily Tips -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" border-radius="10px" padding="40px 25px">
+      <mj-column width="30%">
+        <mj-image alt="Plant" border-radius="20px" padding="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/3yurdy7tuicuukij4a0rn_image.png" width="200px"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text color="#4A6741" font-size="24px">
+          Today's Eco Tip
+        </mj-text>
+        <mj-text color="#333333" font-size="16px">
+          Start your own herb garden using recycled containers. It's sustainable and adds fresh flavors to your cooking!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Product Showcase -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="Product 1" border-radius="10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918807750112_photo-1487700160041-babef9c3cb55.png"></mj-image>
+        <mj-text align="center" color="#4A6741" font-size="18px">
+          Organic Tea
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          $24.99
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="Product 2" border-radius="10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918807750112_photo-1487700160041-babef9c3cb55.png"></mj-image>
+        <mj-text align="center" color="#4A6741" font-size="18px">
+          Natural Soap
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          $12.99
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="Product 3" border-radius="10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918807750112_photo-1487700160041-babef9c3cb55.png"></mj-image>
+        <mj-text align="center" color="#4A6741" font-size="18px">
+          Bamboo Set
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          $34.99
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Quote Section -->
+    </mj-raw>
+    <mj-section background-color="#E8F0E5" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#4A6741" font-size="24px" font-style="italic">
+          "In nature, nothing is perfect and everything is perfect."
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          - Alice Walker
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Blog Preview -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#4A6741" font-size="28px">
+          Latest from Our Blog
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 20px 20px">
+      <mj-column padding="10px" width="50%">
+        <mj-image alt="Blog 1" border-radius="10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918822200113_photo-1485637701894-09ad422f6de6_w_600.png"></mj-image>
+        <mj-text color="#4A6741" font-size="18px">
+          Sustainable Living Tips
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="50%">
+        <mj-image alt="Blog 2" border-radius="10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918822200113_photo-1485637701894-09ad422f6de6_w_600.png"></mj-image>
+        <mj-text color="#4A6741" font-size="18px">
+          Zero Waste Kitchen Guide
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#86A97C" padding="30px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#4A6741" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/mfpkmlhg2mva_os9dl4p1_image.png"></mj-social-element>
+          <mj-social-element background-color="#4A6741" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bc9v51iia1minm3_7hoz_image.png"></mj-social-element>
+          <mj-social-element background-color="#4A6741" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yalfxko4tea86assl7rfg_image.png"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          Made with 🌱 by Organic Living
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

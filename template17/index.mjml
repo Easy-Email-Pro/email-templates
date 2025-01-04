@@ -1,0 +1,100 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Magical Christmas Sale
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Poppins" name="Poppins"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Poppins, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#0C3823">
+    <mj-section background-color="#ffffff" padding="10px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#C41E3A" font-size="42px" font-weight="bold">
+          🎄 Magical Christmas Sale 🎄
+        </mj-text>
+        <mj-text align="center" color="#0C3823" font-size="24px">
+          Up to 50% Off Everything
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="50%">
+        <mj-image alt="Christmas Gifts" href="#" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591830471129_photo-1606830733744-0ad778449672_w_400_h_500_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#C41E3A" font-size="24px" padding-top="20px">
+          Holiday Gifts
+        </mj-text>
+        <mj-button background-color="#0C3823" color="white">
+          Shop Gifts
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Christmas Decor" href="#" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591830835330_photo-1607344645866-009c320b63e0_w_400_h_500_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#C41E3A" font-size="24px" padding-top="20px">
+          Christmas Decor
+        </mj-text>
+        <mj-button background-color="#0C3823" color="white">
+          Shop Decor
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#C41E3A" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="30px">
+          🎅 SANTA'S SPECIAL 🎅
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="20px">
+          Extra 20% Off with code: SANTA2024
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image alt="For Her" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591831090631_photo-1543258103-a62bdc069871_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#0C3823" font-size="18px">
+          For Her
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="For Him" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591831408632_photo-1513885535751-8b9238bd345a_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#0C3823" font-size="18px">
+          For Him
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="For Kids" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591831659633_photo-1512909006721-3d6018887383_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#0C3823" font-size="18px">
+          For Kids
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0C3823" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          🎄 Holiday Shipping Deadlines 🎄
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="16px">
+          Order by December 20th for Christmas Delivery
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="pinterest"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#0C3823" font-size="12px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

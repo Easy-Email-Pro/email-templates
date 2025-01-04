@@ -1,0 +1,153 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY MEGA SALE
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Helvetica" name="Helvetica"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#000000">
+    <mj-raw>
+      <!-- 顶部通知栏 -->
+    </mj-raw>
+    <mj-section background-color="#FF0000" padding="10px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="16px" font-weight="bold">
+          BIGGEST SALE OF THE YEAR! UP TO 70% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Logo部分 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 主标题部分 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="50px" font-weight="bold">
+          BLACK FRIDAY
+        </mj-text>
+        <mj-text align="center" color="#FF0000" font-size="30px" font-weight="bold">
+          MEGA SALE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 倒计时部分 -->
+    </mj-raw>
+    <mj-section background-color="#FF0000">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-weight="bold">
+          DEALS END SOON
+        </mj-text>
+        <mj-button background-color="#000000" color="#ffffff" font-size="16px" font-weight="bold">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 热门分类 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="50%">
+        <mj-image alt="Fashion" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591834411939_photo-1483985988355-763728e1935b_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px" font-weight="bold">
+          Fashion
+        </mj-text>
+        <mj-text align="center" color="#FF0000" font-size="20px">
+          Up to 60% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Electronics" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591834941040_photo-1468495244123-6c6c332eeece_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px" font-weight="bold">
+          Electronics
+        </mj-text>
+        <mj-text align="center" color="#FF0000" font-size="20px">
+          Up to 70% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 更多优惠类别 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33%">
+        <mj-image alt="Footwear" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591833150336_photo-1491553895911-0055eca6402d_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="18px">
+          Footwear
+        </mj-text>
+        <mj-text align="center" color="#FF0000" font-size="16px">
+          50% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Accessories" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591835187441_photo-1526170375885-4d8ecf77b99f_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="18px">
+          Accessories
+        </mj-text>
+        <mj-text align="center" color="#FF0000" font-size="16px">
+          40% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Home Decor" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591835438842_photo-1555529669-e69e7aa0ba9a_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="18px">
+          Home Decor
+        </mj-text>
+        <mj-text align="center" color="#FF0000" font-size="16px">
+          45% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 额外优惠码 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          EXTRA 10% OFF
+        </mj-text>
+        <mj-text align="center" color="#FF0000" font-size="20px" font-weight="bold">
+          Use Code: BLACKFRIDAY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 配送信息 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="18px">
+          🚚 Free Shipping on Orders Over $50
+        </mj-text>
+        <mj-text align="center" color="#000000" font-size="18px">
+          ⚡ Same Day Dispatch
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 页脚 -->
+    </mj-raw>
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#ffffff" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="twitter"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

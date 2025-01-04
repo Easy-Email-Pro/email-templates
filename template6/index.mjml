@@ -1,0 +1,152 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Gaming Weekly: Level Up Your Experience!
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Roboto:400,700" name="Roboto"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .neon-text { text-shadow: 0 0 10px #00ff00; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#0a0a0a">
+    <mj-raw>
+      <!-- Header with Animated Feel -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" padding="20px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Section -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Gaming Hero" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918713027105_photo-1538481199705-c710c4e965fc.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Main Title -->
+    </mj-raw>
+    <mj-section background-color="#1a1a1a" padding-top="30px">
+      <mj-column>
+        <mj-text align="center" color="#00ff00" font-size="36px" font-weight="bold">
+          GAME ON!
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px">
+          Your Weekly Gaming Universe Update
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Featured Games Grid -->
+    </mj-raw>
+    <mj-section background-color="#1a1a1a" padding-top="20px">
+      <mj-column padding="10px" width="50%">
+        <mj-image alt="Game 1" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918725387106_photo-1542751371-adc38448a05e.png"></mj-image>
+        <mj-text align="center" color="#00ff00" font-size="20px" padding-top="15px">
+          NEW RELEASE
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          Cyber Adventure 2024
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="50%">
+        <mj-image alt="Game 2" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918735612107_photo-1550745165-9bc0b252726f.png"></mj-image>
+        <mj-text align="center" color="#00ff00" font-size="20px" padding-top="15px">
+          TRENDING NOW
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          Space Warriors
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Special Offer -->
+    </mj-raw>
+    <mj-section background-color="#2a0a2a" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ff00ff" font-size="24px" font-weight="bold">
+          🎮 SPECIAL OFFER 🎮
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          Get 50% off on all premium games this weekend!
+        </mj-text>
+        <mj-button background-color="#ff00ff" border-radius="25px" color="#ffffff" padding="15px 30px">
+          CLAIM OFFER
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Gaming News -->
+    </mj-raw>
+    <mj-section background-color="#1a1a1a" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image alt="News 1" height="150px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918745678108_photo-1580327332925-a10e6cb11baa.png"></mj-image>
+        <mj-text align="center" color="#00ff00" font-size="16px">
+          E-Sports Update
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="News 2" height="150px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918756840109_photo-1612287230202-1ff1d85d1bdf.png"></mj-image>
+        <mj-text align="center" color="#00ff00" font-size="16px">
+          Tech Reviews
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="News 3" height="150px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918769341110_photo-1593305841991-05c297ba4575.png"></mj-image>
+        <mj-text align="center" color="#00ff00" font-size="16px">
+          Game Guides
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Stream Section -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          🎥 LIVE STREAMS
+        </mj-text>
+        <mj-image alt="Stream" padding="10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918786421111_photo-1561736778-92e52a7769ef_w_600.png"></mj-image>
+        <mj-text align="center" color="#00ff00">
+          Join our next live stream tomorrow at 8PM EST
+        </mj-text>
+        <mj-button background-color="#6441a5" border-radius="5px" color="#ffffff">
+          FOLLOW CHANNEL
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Community Section -->
+    </mj-raw>
+    <mj-section background-color="#1a1a1a">
+      <mj-column>
+        <mj-text align="center" color="#00ff00" font-size="24px">
+          JOIN OUR COMMUNITY
+        </mj-text>
+        <mj-social align="center" font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/mfpkmlhg2mva_os9dl4p1_image.png"></mj-social-element>
+          <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bc9v51iia1minm3_7hoz_image.png"></mj-social-element>
+          <mj-social-element src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yalfxko4tea86assl7rfg_image.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#0a0a0a">
+      <mj-column>
+        <mj-text align="center" color="#666666" font-size="12px">
+          © 2024 Gaming Universe. All rights reserved.
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="10px">
+          You received this email because you subscribed to our gaming newsletter.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

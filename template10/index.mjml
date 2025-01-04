@@ -1,0 +1,192 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Kids Learning Adventure
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600" name="Quicksand"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Quicksand, Arial, sans-serif"></mj-all>
+      <mj-text color="#4A4A4A" font-size="16px" line-height="1.5"></mj-text>
+      <mj-section padding="0 20px"></mj-section>
+      <mj-button border-radius="25px" font-size="16px" font-weight="600"></mj-button>
+    </mj-attributes>
+    <mj-style>
+      .rounded-section {
+      border-radius: 15px;
+      overflow: hidden;
+      }
+      .activity-card {
+      border-radius: 10px;
+      overflow: hidden;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F5F7FA">
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-image alt="Learning Center Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Section -->
+    </mj-raw>
+    <mj-section padding="0 20px">
+      <mj-column>
+        <mj-image alt="Happy Learning Kids" css-class="rounded-section" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180236634_photo-1516627145497-ae6968895b74.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="20px"></mj-spacer>
+    <mj-raw>
+      <!-- Welcome Message -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" css-class="rounded-section">
+      <mj-column>
+        <mj-text align="center" color="#FF6B6B" font-size="28px" font-weight="600">
+          Welcome to Our Learning Adventure! 🌈
+        </mj-text>
+        <mj-text align="center">
+          Where every day brings new discoveries and fun learning experiences
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="20px"></mj-spacer>
+    <mj-raw>
+      <!-- Featured Activities -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" css-class="rounded-section">
+      <mj-column padding="10px" width="50%">
+        <mj-image alt="Creative Arts" css-class="activity-card" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180236634_photo-1516627145497-ae6968895b74.png"></mj-image>
+        <mj-text align="center" color="#4A90E2" font-size="20px" padding-top="15px">
+          🎨 Creative Arts
+        </mj-text>
+        <mj-text align="center">
+          Express yourself through colors and shapes
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="50%">
+        <mj-image alt="Music & Movement" css-class="activity-card" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180505405_photo-1488521787991-ed7bbaae773c_w_600.png"></mj-image>
+        <mj-text align="center" color="#FF6B6B" font-size="20px" padding-top="15px">
+          🎵 Music & Movement
+        </mj-text>
+        <mj-text align="center">
+          Dance, sing, and explore rhythm
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="20px"></mj-spacer>
+    <mj-raw>
+      <!-- Learning Programs -->
+    </mj-raw>
+    <mj-section background-color="#F8F9FA" css-class="rounded-section">
+      <mj-column>
+        <mj-text align="center" color="#4A4A4A" font-size="24px" font-weight="600">
+          Our Learning Programs
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F8F9FA" padding-top="0">
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="Early Learning" css-class="activity-card" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180715636_photo-1560969184-10fe8719e047_w_600.png"></mj-image>
+        <mj-text align="center" color="#4A90E2" font-size="18px">
+          Early Learning
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="STEM Activities" css-class="activity-card" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180822957_photo-1509062522246-3755977927d7.png"></mj-image>
+        <mj-text align="center" color="#4A90E2" font-size="18px">
+          STEM Activities
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="Language Arts" css-class="activity-card" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359181061238_photo-1549737328-8b9f3252b927_w_600.png"></mj-image>
+        <mj-text align="center" color="#4A90E2" font-size="18px">
+          Language Arts
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="20px"></mj-spacer>
+    <mj-raw>
+      <!-- Special Feature -->
+    </mj-raw>
+    <mj-section background-color="#FFE0F7" css-class="rounded-section">
+      <mj-column width="60%">
+        <mj-text color="#9C27B0" font-size="24px" font-weight="600">
+          Story Time Adventures
+        </mj-text>
+        <mj-text>
+          Join us every Friday for magical storytelling sessions!
+        </mj-text>
+        <mj-button background-color="#9C27B0" color="#ffffff">
+          Learn More
+        </mj-button>
+      </mj-column>
+      <mj-column width="40%">
+        <mj-image alt="Story Time" css-class="activity-card" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359181061238_photo-1549737328-8b9f3252b927_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="20px"></mj-spacer>
+    <mj-raw>
+      <!-- Parent Resources -->
+    </mj-raw>
+    <mj-section background-color="#E3F2FD" css-class="rounded-section">
+      <mj-column>
+        <mj-text align="center" color="#1976D2" font-size="24px" font-weight="600">
+          Parent Resources
+        </mj-text>
+        <mj-text align="center">
+          Stay connected with your child's learning journey
+        </mj-text>
+        <mj-button background-color="#1976D2" color="#ffffff">
+          Access Portal
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="20px"></mj-spacer>
+    <mj-raw>
+      <!-- Photo Gallery -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" css-class="rounded-section">
+      <mj-column>
+        <mj-text align="center" color="#4A4A4A" font-size="24px" font-weight="600">
+          Learning Moments
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column padding="5px" width="25%">
+        <mj-image alt="Gallery 1" css-class="activity-card" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180236634_photo-1516627145497-ae6968895b74.png"></mj-image>
+      </mj-column>
+      <mj-column padding="5px" width="25%">
+        <mj-image alt="Gallery 2" css-class="activity-card" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180505405_photo-1488521787991-ed7bbaae773c_w_600.png"></mj-image>
+      </mj-column>
+      <mj-column padding="5px" width="25%">
+        <mj-image alt="Gallery 3" css-class="activity-card" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180822957_photo-1509062522246-3755977927d7.png"></mj-image>
+      </mj-column>
+      <mj-column padding="5px" width="25%">
+        <mj-image alt="Gallery 4" css-class="activity-card" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359181061238_photo-1549737328-8b9f3252b927_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="20px"></mj-spacer>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" css-class="rounded-section">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#4A90E2" href="https://facebook.com" name="facebook"></mj-social-element>
+          <mj-social-element background-color="#FF6B6B" href="https://instagram.com" name="instagram"></mj-social-element>
+          <mj-social-element background-color="#FF0000" href="https://youtube.com" name="youtube"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" font-size="14px">
+          123 Learning Street, Fun City 12345
+        </mj-text>
+        <mj-text align="center" font-size="14px">
+          © 2024 Kids Learning Center. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

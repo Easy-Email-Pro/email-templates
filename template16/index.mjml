@@ -1,0 +1,106 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Thanksgiving Celebration
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Georgia" name="Georgia"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Georgia, serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFF8DC">
+    <mj-section background-color="#8B4513" padding="10px">
+      <mj-column>
+        <mj-text align="center" color="#FFF8DC" font-size="14px">
+          Free Shipping on Orders Over $75 | Use Code: GRATEFUL
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="no-repeat" background-size="cover" background-url="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591829344827_photo-1506459225024-1428097a7e18_w_900_h_400_fit_crop.png">
+      <mj-column background-color="rgb(255, 248, 220)" padding="20px" width="70%">
+        <mj-text align="center" color="#8B4513" font-size="40px" font-weight="bold">
+          Thanksgiving Sale
+        </mj-text>
+        <mj-text align="center" color="#8B4513" font-size="24px">
+          Up to 40% Off
+        </mj-text>
+        <mj-button background-color="#8B4513" border-radius="0" color="#FFF8DC">
+          Shop Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="center" color="#8B4513" font-size="28px" font-weight="bold">
+          Thanksgiving Essentials
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33%">
+        <mj-image alt="Dining" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591829724428_photo-1574672280600-4accfa5b6f98_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#8B4513" font-size="20px">
+          Dining & Entertaining
+        </mj-text>
+        <mj-button background-color="#8B4513" color="#FFF8DC">
+          Shop Dining
+        </mj-button>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Decor" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591829724428_photo-1574672280600-4accfa5b6f98_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#8B4513" font-size="20px">
+          Fall Decor
+        </mj-text>
+        <mj-button background-color="#8B4513" color="#FFF8DC">
+          Shop Decor
+        </mj-button>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Kitchen" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591829724428_photo-1574672280600-4accfa5b6f98_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#8B4513" font-size="20px">
+          Kitchen Must-Haves
+        </mj-text>
+        <mj-button background-color="#8B4513" color="#FFF8DC">
+          Shop Kitchen
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF8DC">
+      <mj-column>
+        <mj-text align="center" color="#8B4513" font-size="24px" font-style="italic">
+          "Gratitude turns what we have into enough"
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#8B4513">
+      <mj-column>
+        <mj-text align="center" color="#FFF8DC" font-size="24px">
+          Early Bird Special
+        </mj-text>
+        <mj-text align="center" color="#FFF8DC" font-size="18px">
+          Extra 15% off when you shop before November 20th
+        </mj-text>
+        <mj-button background-color="#FFF8DC" color="#8B4513">
+          Shop Early
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#8B4513" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="pinterest"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#8B4513" font-size="12px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

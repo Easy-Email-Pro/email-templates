@@ -1,0 +1,99 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY SPORTS DEALS
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Anton" name="Nike"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Anton, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f2f2f2">
+    <mj-section background-color="#000000" padding="10px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="16px">
+          BIGGEST SPORTS SALE OF THE YEAR 🏃‍♂️
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Sports" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591842442958_photo-1517836357463-d25dfeac3438_w_800_h_400_fit_crop.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ff4d4d" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="48px">
+          BLACK FRIDAY
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          UP TO 70% OFF ALL GEAR
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="50%">
+        <mj-image alt="Footwear" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591843298659_photo-1542291026-7eec264c27ff_w_400_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px">
+          FOOTWEAR
+        </mj-text>
+        <mj-button background-color="#ff4d4d" color="#ffffff">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Apparel" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591843581960_photo-1515886657613-9f3515b0c78f_w_400_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px">
+          APPAREL
+        </mj-text>
+        <mj-button background-color="#ff4d4d" color="#ffffff">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image alt="Basketball" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591843925361_photo-1517649763962-0c623066013b_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="18px">
+          BASKETBALL
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Running" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591844305562_photo-1579952363873-27f3bade9f55_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="18px">
+          RUNNING
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Training" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591844543163_photo-1593419528756-3cdfa1615b86_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="18px">
+          TRAINING
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ff4d4d">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          EXTRA 20% OFF WITH CODE: SPORT20
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#ffffff" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="twitter"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          © 2024 Your Sports Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

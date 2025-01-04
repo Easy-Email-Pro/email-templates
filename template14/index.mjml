@@ -1,0 +1,77 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Love is in the Air - Valentine's Day Special
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Playfair+Display" name="Playfair Display"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Playfair Display, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFF5F5">
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column width="100%">
+        <mj-text align="center" color="#FF1493" font-family="Playfair Display" font-size="40px" font-weight="bold">
+          ♥ Love is in the Air ♥
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33%">
+        <mj-image alt="Gift 1" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591825917119_photo-1518199266791-5375a83190b7_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#FF1493" font-size="18px">
+          For Her
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Gift 2" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591826306220_photo-1549465220-1a8b9238cd48_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#FF1493" font-size="18px">
+          For Him
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Gift 3" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591826551321_photo-1515934751635-c81c6bc9a2d8_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#FF1493" font-size="18px">
+          For Both
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FF1493" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          Special Valentine's Offer
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="30px" font-weight="bold">
+          20% OFF
+        </mj-text>
+        <mj-button background-color="#ffffff" border-radius="25px" color="#FF1493">
+          Shop Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="no-repeat" background-size="cover" background-url="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591826800822_photo-1518895949257-7621c3c786d7_w_600_h_200_fit_crop.png" padding="50px 20px">
+      <mj-column background-color="rgb(255, 255, 255)" padding="20px">
+        <mj-text align="center" color="#FF1493" font-size="20px" line-height="1.5">
+          "Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day."
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#FF1493" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="pinterest"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#666666" font-size="12px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

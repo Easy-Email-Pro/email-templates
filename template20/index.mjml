@@ -1,0 +1,158 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY LUXURY DEALS
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Montserrat:400,700" name="Montserrat"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#1a1a1a">
+    <mj-raw>
+      <!-- 顶部倒计时条 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="15px">
+      <mj-column>
+        <mj-text align="center" color="#ffd700" font-size="16px" font-weight="bold">
+          EXCLUSIVE EARLY ACCESS - 24 HOURS ONLY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Logo区域 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 主视觉区域 -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Luxury Fashion" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591836568243_photo-1483985988355-763728e1935b_w_800_h_500_fit_crop.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 金色标题区 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffd700" font-size="50px" font-weight="bold" line-height="1.2">
+          BLACK FRIDAY
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="24px" padding-top="20px">
+          LUXURY DEALS UP TO 70% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 三列精选商品 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="40px 20px">
+      <mj-column padding="0 10px" width="33.33%">
+        <mj-image alt="Fashion" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591837247144_photo-1549298916-b41d501d3772_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="18px" font-weight="bold" padding-top="20px">
+          DESIGNER BAGS
+        </mj-text>
+        <mj-text align="center" color="#ffd700" font-size="16px" font-weight="bold">
+          UP TO 60% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0 10px" width="33.33%">
+        <mj-image alt="Watches" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591837586545_photo-1523275335684-37898b6baf30_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="18px" font-weight="bold" padding-top="20px">
+          LUXURY WATCHES
+        </mj-text>
+        <mj-text align="center" color="#ffd700" font-size="16px" font-weight="bold">
+          UP TO 50% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0 10px" width="33.33%">
+        <mj-image alt="Jewelry" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591837815146_photo-1582588678413-dbf45f4823e9_w_300_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="18px" font-weight="bold" padding-top="20px">
+          FINE JEWELRY
+        </mj-text>
+        <mj-text align="center" color="#ffd700" font-size="16px" font-weight="bold">
+          UP TO 70% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- VIP优惠码 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ffd700" font-size="24px" font-weight="bold">
+          EXCLUSIVE VIP CODE
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="36px" font-weight="bold" padding-top="10px">
+          LUXVIP2024
+        </mj-text>
+        <mj-text align="center" color="#ffd700" font-size="18px" padding-top="10px">
+          Extra 15% Off on All Items
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 热门品类 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="40px 20px">
+      <mj-column padding="0 10px" width="50%">
+        <mj-image alt="Women" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591838082147_photo-1490481651871-ab68de25d43d_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px" font-weight="bold" padding-top="20px">
+          WOMEN
+        </mj-text>
+        <mj-button background-color="#000000" color="#ffffff" font-weight="bold">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0 10px" width="50%">
+        <mj-image alt="Men" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591838308048_photo-1617137968427-85924c800a22_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px" font-weight="bold" padding-top="20px">
+          MEN
+        </mj-text>
+        <mj-button background-color="#000000" color="#ffffff" font-weight="bold">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 配送信息 -->
+    </mj-raw>
+    <mj-section background-color="#1a1a1a" padding="30px">
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          ✈️ FREE SHIPPING
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          🔒 SECURE PAYMENT
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          ↩️ EASY RETURNS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 页脚 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#ffd700" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="pinterest"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px" padding-top="20px">
+          © 2024 Your Luxury Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

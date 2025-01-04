@@ -1,0 +1,172 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY SPLIT DESIGN
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Bebas+Neue" name="Bebas Neue"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Bebas Neue, Arial, sans-serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#000000">
+    <mj-raw>
+      <!-- 顶部通知 -->
+    </mj-raw>
+    <mj-section background-color="#ff0000" padding="10px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="16px">
+          24 HOURS ONLY - BIGGEST SALE OF THE YEAR
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 分割式标题区 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column background-color="#000000" padding="40px" width="70%">
+        <mj-text align="right" color="#ffffff" font-size="80px">
+          BLACK
+        </mj-text>
+        <mj-text align="right" color="#ff0000" font-size="30px">
+          UP TO 70% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="#ff0000" padding="40px" width="30%">
+        <mj-text align="left" color="#000000" font-size="80px">
+          FRI
+        </mj-text>
+        <mj-text align="left" color="#000000" font-size="80px">
+          DAY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 不规则产品展示区 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column padding="2px" width="40%">
+        <mj-image alt="Watches" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591847250767_photo-1523275335684-37898b6baf30_w_300.png"></mj-image>
+      </mj-column>
+      <mj-column background-color="#ffffff" padding="20px" width="60%">
+        <mj-text align="left" color="#000000" font-size="36px">
+          LUXURY WATCHES
+        </mj-text>
+        <mj-text align="left" color="#ff0000" font-size="24px" padding-top="10px">
+          50% OFF
+        </mj-text>
+        <mj-button align="left" background-color="#000000" color="#ffffff">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 反向不规则展示 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column background-color="#ff0000" padding="20px" width="60%">
+        <mj-text align="right" color="#ffffff" font-size="36px">
+          HEADPHONES
+        </mj-text>
+        <mj-text align="right" color="#000000" font-size="24px" padding-top="10px">
+          60% OFF
+        </mj-text>
+        <mj-button align="right" background-color="#000000" color="#ffffff">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+      <mj-column padding="2px" width="40%">
+        <mj-image alt="Headphones" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591847587268_photo-1505740420928-5e560c06d30e_w_300.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 三列不规则展示 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column padding="2px" width="33.33%">
+        <mj-image alt="Footwear" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591847895169_photo-1491553895911-0055eca6402d_w_200.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px" padding="15px">
+          FOOTWEAR
+        </mj-text>
+        <mj-text align="center" color="#ff0000" font-size="18px">
+          40% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="#000000" padding="2px" width="33.33%">
+        <mj-image alt="Fashion" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591848209670_photo-1483985988355-763728e1935b_w_200.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="24px" padding="15px">
+          FASHION
+        </mj-text>
+        <mj-text align="center" color="#ff0000" font-size="18px">
+          70% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column padding="2px" width="33.33%">
+        <mj-image alt="Tech" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591848478171_photo-1526170375885-4d8ecf77b99f_w_200.png"></mj-image>
+        <mj-text align="center" color="#000000" font-size="24px" padding="15px">
+          TECH
+        </mj-text>
+        <mj-text align="center" color="#ff0000" font-size="18px">
+          55% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 分割式优惠码区域 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column background-color="#000000" width="25%">
+        <mj-text align="center" color="#ffffff" font-size="24px" padding="20px">
+          USE
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="#ff0000" width="50%">
+        <mj-text align="center" color="#ffffff" font-size="30px" padding="20px">
+          CODE: SPLIT20
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="#000000" width="25%">
+        <mj-text align="center" color="#ffffff" font-size="24px" padding="20px">
+          NOW
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 配送信息 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#000000" font-size="16px">
+          FREE SHIPPING
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#000000" font-size="16px">
+          30 DAYS RETURN
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#000000" font-size="16px">
+          24/7 SUPPORT
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 页脚 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#ffffff" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="twitter"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px" padding-top="20px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

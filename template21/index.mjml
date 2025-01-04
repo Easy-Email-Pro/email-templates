@@ -1,0 +1,162 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Cyber Monday - Biggest Online Deals
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Roboto" name="Roboto"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#001933">
+    <mj-raw>
+      <!-- 顶部通知栏 -->
+    </mj-raw>
+    <mj-section background-color="#00FFFF" padding="10px">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="16px" font-weight="bold">
+          24 HOURS ONLY! CYBER MONDAY DEALS END SOON
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Logo部分 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 主标题部分 -->
+    </mj-raw>
+    <mj-section background-color="#000033" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#00FFFF" font-size="46px" font-weight="bold">
+          CYBER MONDAY
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="28px">
+          UP TO 80% OFF ONLINE
+        </mj-text>
+        <mj-button background-color="#00FFFF" border-radius="5px" color="#000033" font-size="18px" font-weight="bold">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 热门科技产品 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="50%">
+        <mj-image alt="Tech Deals" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591838997149_photo-1544731612-de7f96afe55f_w_400_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000033" font-size="24px" font-weight="bold">
+          Tech Deals
+        </mj-text>
+        <mj-text align="center" color="#001933" font-size="20px">
+          Up to 70% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Gadgets" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591839364650_photo-1587033411391-5d9e51cce126_w_400_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000033" font-size="24px" font-weight="bold">
+          Smart Gadgets
+        </mj-text>
+        <mj-text align="center" color="#001933" font-size="20px">
+          Up to 60% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 闪购特惠 -->
+    </mj-raw>
+    <mj-section background-color="#00FFFF" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#000033" font-size="30px" font-weight="bold">
+          ⚡ FLASH DEALS ⚡
+        </mj-text>
+        <mj-text align="center" color="#000033" font-size="20px">
+          Extra 15% off with code: CYBER15
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 产品分类 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column width="33.33%">
+        <mj-image alt="Laptops" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591839668451_photo-1505751172876-fa1923c5c528_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000033" font-size="18px">
+          Laptops
+        </mj-text>
+        <mj-text align="center" color="#001933" font-size="16px">
+          From $399
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Smart Watches" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591839960752_photo-1546868871-7041f2a55e12_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000033" font-size="18px">
+          Smart Watches
+        </mj-text>
+        <mj-text align="center" color="#001933" font-size="16px">
+          From $99
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Headphones" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591840211253_photo-1585298723682-7115561c51b7_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#000033" font-size="18px">
+          Headphones
+        </mj-text>
+        <mj-text align="center" color="#001933" font-size="16px">
+          From $49
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 限时优惠 -->
+    </mj-raw>
+    <mj-section background-color="#000033" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#00FFFF" font-size="24px">
+          🕒 LIMITED TIME OFFER
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px">
+          Free Next Day Delivery on Orders Over $100
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 购物保障 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" color="#000033" font-size="16px">
+          ✓ Secure Payment
+        </mj-text>
+        <mj-text align="center" color="#000033" font-size="16px">
+          ✓ 30-Day Returns
+        </mj-text>
+        <mj-text align="center" color="#000033" font-size="16px">
+          ✓ 24/7 Support
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 页脚 -->
+    </mj-raw>
+    <mj-section background-color="#000033">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#00FFFF" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="twitter"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          *Offers valid online only. Terms and conditions apply.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

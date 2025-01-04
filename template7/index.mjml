@@ -1,0 +1,123 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Tech Weekly Update
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600" name="Inter"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Inter, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#0A0A0A">
+    <mj-raw>
+      <!-- Minimal Header -->
+    </mj-raw>
+    <mj-section padding="20px 0">
+      <mj-column width="40%">
+        <mj-image href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-navbar base-url="https://example.com" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link color="#ffffff" href="/products">
+            Products
+          </mj-navbar-link>
+          <mj-navbar-link color="#ffffff" href="/features">
+            Features
+          </mj-navbar-link>
+          <mj-navbar-link color="#ffffff" href="/about">
+            About
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Section with Gradient -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Tech Banner" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591821465514_photo-1451187580459-43490279c0fa.png"></mj-image>
+        <mj-text align="center" color="#00FF00" font-size="48px" font-weight="bold" padding-top="20px">
+          FUTURE IS NOW
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Stats Grid -->
+    </mj-raw>
+    <mj-section background-color="#1A1A1A" padding="30px">
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#00FF00" font-size="36px">
+          98%
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          Efficiency
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#00FF00" font-size="36px">
+          24/7
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          Support
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#00FF00" font-size="36px">
+          5M+
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          Users
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Feature Blocks -->
+    </mj-raw>
+    <mj-section padding="20px 0">
+      <mj-column background-color="#1A1A1A" padding="20px" width="50%">
+        <mj-text color="#00FF00" font-size="24px">
+          AI Integration
+        </mj-text>
+        <mj-text color="#ffffff">
+          Advanced machine learning algorithms powering next-gen solutions.
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="#1A1A1A" padding="20px" width="50%">
+        <mj-text color="#00FF00" font-size="24px">
+          Cloud Native
+        </mj-text>
+        <mj-text color="#ffffff">
+          Scalable infrastructure built for the modern web.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- CTA Section -->
+    </mj-raw>
+    <mj-section background-color="#00FF00" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="24px">
+          Ready to Transform?
+        </mj-text>
+        <mj-button background-color="#000000" color="#00FF00">
+          GET STARTED
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#1A1A1A">
+      <mj-column>
+        <mj-social align="center" font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#00FF00" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/mfpkmlhg2mva_os9dl4p1_image.png"></mj-social-element>
+          <mj-social-element background-color="#00FF00" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bc9v51iia1minm3_7hoz_image.png"></mj-social-element>
+          <mj-social-element background-color="#00FF00" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yalfxko4tea86assl7rfg_image.png"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#666666" font-size="12px">
+          © 2024 TechCorp. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

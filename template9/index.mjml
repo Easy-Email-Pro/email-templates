@@ -1,0 +1,133 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Luxury Fashion Collection
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600" name="Didot"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Didot, serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#000000">
+    <mj-raw>
+      <!-- Minimal Header -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-image href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Full-width Fashion Image -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Fashion" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918842040114_photo-1490481651871-ab68de25d43d_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Golden Divider -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-divider border-color="#B8860B" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Collection Title -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#B8860B" font-size="36px" letter-spacing="2px">
+          AUTUMN COLLECTION
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="16px" letter-spacing="1px">
+          EXCLUSIVELY CURATED PIECES
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Featured Products Grid -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column padding="10px" width="50%">
+        <mj-image alt="Product 1" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918853443115_photo-1539109136881-3be0616acf4b_w_600.png"></mj-image>
+        <mj-text align="center" color="#B8860B" font-size="20px">
+          Silk Evening Gown
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          $2,499
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="50%">
+        <mj-image alt="Product 2" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918853443115_photo-1539109136881-3be0616acf4b_w_600.png"></mj-image>
+        <mj-text align="center" color="#B8860B" font-size="20px">
+          Designer Handbag
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          $1,899
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Exclusive Offer -->
+    </mj-raw>
+    <mj-section background-color="#B8860B" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="24px">
+          EXCLUSIVE VIP ACCESS
+        </mj-text>
+        <mj-text align="center" color="#000000">
+          Preview the collection before anyone else
+        </mj-text>
+        <mj-button background-color="#000000" border="1px solid #B8860B" color="#B8860B">
+          REQUEST ACCESS
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Boutique Locations -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#B8860B" font-size="20px">
+          PARIS
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          16 Rue de la Paix
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#B8860B" font-size="20px">
+          MILAN
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          Montenapoleone
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" color="#B8860B" font-size="20px">
+          NEW YORK
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          Fifth Avenue, 754
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-social align="center" font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#B8860B" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/mfpkmlhg2mva_os9dl4p1_image.png"></mj-social-element>
+          <mj-social-element background-color="#B8860B" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bc9v51iia1minm3_7hoz_image.png"></mj-social-element>
+          <mj-social-element background-color="#B8860B" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yalfxko4tea86assl7rfg_image.png"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#666666" font-size="12px">
+          © 2024 Luxury Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

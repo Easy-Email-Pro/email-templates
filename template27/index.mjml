@@ -1,0 +1,166 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY GALLERY
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700" name="Playfair Display"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Playfair Display, Arial, sans-serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#1a1a1a">
+    <mj-raw>
+      <!-- 顶部通知 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="10px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          BLACK FRIDAY PREVIEW - MEMBERS ONLY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 主标题区 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="60px" font-weight="bold">
+          BLACK FRIDAY
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="24px" padding-top="10px">
+          CURATED COLLECTION
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 画廊第一行 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column padding="2px" width="33.33%">
+        <mj-image alt="Watches" href="#" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591847250767_photo-1523275335684-37898b6baf30_w_300.png"></mj-image>
+      </mj-column>
+      <mj-column padding="2px" width="33.33%">
+        <mj-image alt="Headphones" href="#" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591847587268_photo-1505740420928-5e560c06d30e_w_300.png"></mj-image>
+      </mj-column>
+      <mj-column padding="2px" width="33.33%">
+        <mj-image alt="Footwear" href="#" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591849305672_photo-1491553895911-0055eca6402d_w_300.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 画廊描述行 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column padding="20px" width="33.33%">
+        <mj-text align="center" color="#000000" font-size="20px">
+          WATCHES
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px">
+          From $199
+        </mj-text>
+      </mj-column>
+      <mj-column padding="20px" width="33.33%">
+        <mj-text align="center" color="#000000" font-size="20px">
+          AUDIO
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px">
+          From $99
+        </mj-text>
+      </mj-column>
+      <mj-column padding="20px" width="33.33%">
+        <mj-text align="center" color="#000000" font-size="20px">
+          FOOTWEAR
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px">
+          From $79
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 大图展示 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image alt="Fashion" href="#" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591846622366_photo-1483985988355-763728e1935b_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 优惠信息 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="30px">
+          UP TO 70% OFF
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-top="10px">
+          USE CODE: GALLERY20
+        </mj-text>
+        <mj-button background-color="#ffffff" color="#000000" font-size="16px" padding-top="20px">
+          EXPLORE THE COLLECTION
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 画廊第二行 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column padding="2px" width="50%">
+        <mj-image alt="Tech" href="#" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591849806573_photo-1526170375885-4d8ecf77b99f_w_400.png"></mj-image>
+      </mj-column>
+      <mj-column padding="2px" width="50%">
+        <mj-image alt="Laptops" href="#" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591850094674_photo-1544731612-de7f96afe55f_w_400.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 画廊描述第二行 -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column padding="20px" width="50%">
+        <mj-text align="center" color="#000000" font-size="20px">
+          TECH ACCESSORIES
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px">
+          50% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column padding="20px" width="50%">
+        <mj-text align="center" color="#000000" font-size="20px">
+          LAPTOPS
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px">
+          40% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 倒计时区域 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          SALE ENDS IN
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="36px" font-weight="bold" padding-top="10px">
+          24:00:00
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 页脚 -->
+    </mj-raw>
+    <mj-section background-color="#1a1a1a" padding="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#ffffff" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="pinterest"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px" padding-top="20px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,196 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Fitness & Wellness Newsletter
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700" name="Poppins"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Poppins, Arial, sans-serif"></mj-all>
+      <mj-text color="#333333" font-size="16px" line-height="1.5"></mj-text>
+      <mj-section padding="0 20px"></mj-section>
+      <mj-button background-color="#FF4757" border-radius="30px"></mj-button>
+    </mj-attributes>
+    <mj-style>
+      .gradient-bg {
+      background: linear-gradient(135deg, #FF4757, #FF6B81);
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F8F9FA">
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section css-class="gradient-bg" padding="20px">
+      <mj-column>
+        <mj-image alt="Fitness Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Section -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Fitness Hero" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359181369539_photo-1517836357463-d25dfeac3438_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Welcome Message -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" color="#FF4757" font-size="32px" font-weight="700">
+          Transform Your Life
+        </mj-text>
+        <mj-text align="center">
+          Start your fitness journey today with our expert guidance
+        </mj-text>
+        <mj-button>
+          Get Started Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px"></mj-section>
+    <mj-raw>
+      <!-- Featured Programs -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="Strength" height="120px" padding="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591814464910_photo-1518611012118-696072aa579a.png"></mj-image>
+        <mj-text align="center" color="#FF4757" font-size="18px" font-weight="600">
+          Strength
+        </mj-text>
+        <mj-text align="center" font-size="14px">
+          Build muscle & power
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="Cardio" height="120px" padding="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591816181911_photo-1518459031867-a89b944bffe4.png"></mj-image>
+        <mj-text align="center" color="#FF4757" font-size="18px" font-weight="600">
+          Cardio
+        </mj-text>
+        <mj-text align="center" font-size="14px">
+          Boost endurance
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px" width="33.33%">
+        <mj-image alt="Yoga" height="120px" padding="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591818305412_photo-1544367567-0f2fcb009e0b_w_600.png"></mj-image>
+        <mj-text align="center" color="#FF4757" font-size="18px" font-weight="600">
+          Yoga
+        </mj-text>
+        <mj-text align="center" font-size="14px">
+          Find balance
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px"></mj-section>
+    <mj-raw>
+      <!-- Trainer Spotlight -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column width="40%">
+        <mj-image alt="Trainer" border-radius="10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591819442813_photo-1571019614242-c5c5dee9f50b_w_600.png"></mj-image>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text font-size="24px" font-weight="600">
+          Meet Your Trainer
+        </mj-text>
+        <mj-text>
+          "I believe in making fitness accessible and enjoyable for everyone. Let's work together to achieve your goals!"
+        </mj-text>
+        <mj-text font-weight="600">
+          - Alex Thompson
+        </mj-text>
+        <mj-button>
+          Book a Session
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px"></mj-section>
+    <mj-raw>
+      <!-- Class Schedule -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" font-size="24px" font-weight="600">
+          This Week's Schedule
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column>
+        <mj-table>
+          <tr style="border-bottom: 1px solid #eeeeee;">
+            <td style="padding: 15px;">Monday</td>
+            <td style="padding: 15px;">HIIT Training</td>
+            <td style="padding: 15px;">6:00 AM</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #eeeeee;">
+            <td style="padding: 15px;">Wednesday</td>
+            <td style="padding: 15px;">Strength & Core</td>
+            <td style="padding: 15px;">7:00 AM</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #eeeeee;">
+            <td style="padding: 15px;">Friday</td>
+            <td style="padding: 15px;">Yoga Flow</td>
+            <td style="padding: 15px;">8:00 AM</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px"></mj-section>
+    <mj-raw>
+      <!-- Success Story -->
+    </mj-raw>
+    <mj-section background-color="#F8F9FA">
+      <mj-column width="50%">
+        <mj-image alt="Success Story" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591819442813_photo-1571019614242-c5c5dee9f50b_w_600.png"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-size="24px" font-weight="600">
+          Success Story
+        </mj-text>
+        <mj-text>
+          "I lost 30 pounds and gained confidence. The trainers here are amazing!"
+        </mj-text>
+        <mj-text font-weight="600">
+          - Sarah M.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px"></mj-section>
+    <mj-raw>
+      <!-- Special Offer -->
+    </mj-raw>
+    <mj-section css-class="gradient-bg">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-weight="600">
+          Special Offer
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          Join now and get 30% off your first month!
+        </mj-text>
+        <mj-button background-color="#ffffff" color="#FF4757">
+          Claim Offer
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#333333">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#FF4757" href="https://instagram.com" name="instagram"></mj-social-element>
+          <mj-social-element background-color="#FF4757" href="https://facebook.com" name="facebook"></mj-social-element>
+          <mj-social-element background-color="#FF4757" href="https://twitter.com" name="twitter"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          123 Fitness Street, Healthy City, HC 12345
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="12px">
+          © 2024 Fitness Center. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

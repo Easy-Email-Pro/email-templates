@@ -1,0 +1,163 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Tech Newsletter
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600" name="Inter"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Inter, Arial, sans-serif"></mj-all>
+      <mj-text color="#333333" font-size="16px" line-height="1.5"></mj-text>
+      <mj-section padding="0 20px"></mj-section>
+      <mj-button background-color="#000000" border-radius="0"></mj-button>
+    </mj-attributes>
+    <mj-style>
+      .border-bottom { border-bottom: 1px solid #eee; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section padding="40px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="24px" font-weight="600">
+          TECH/MINIMAL
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Section -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image alt="Tech Hero" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591821465514_photo-1451187580459-43490279c0fa.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Spacer -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="40px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Main Content -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text font-size="32px" font-weight="600">
+          The Future of Design
+        </mj-text>
+        <mj-text color="#666666">
+          Exploring minimalism in modern technology
+        </mj-text>
+        <mj-button padding="20px 0">
+          Read More →
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Spacer -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="40px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Grid Content -->
+    </mj-raw>
+    <mj-section>
+      <mj-column padding-right="20px" width="50%">
+        <mj-image alt="Tech 1" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591822706915_photo-1498050108023-c5249f4df085.png"></mj-image>
+        <mj-text font-size="20px" font-weight="600" padding-top="20px">
+          Clean Code
+        </mj-text>
+        <mj-text color="#666666">
+          The art of writing elegant solutions
+        </mj-text>
+      </mj-column>
+      <mj-column padding-left="20px" width="50%">
+        <mj-image alt="Tech 2" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591821465514_photo-1451187580459-43490279c0fa.png"></mj-image>
+        <mj-text font-size="20px" font-weight="600" padding-top="20px">
+          Future Tech
+        </mj-text>
+        <mj-text color="#666666">
+          Emerging trends in technology
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Spacer -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="40px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Feature Section -->
+    </mj-raw>
+    <mj-section background-color="#f8f8f8">
+      <mj-column>
+        <mj-text align="center" font-size="24px" font-weight="600">
+          Latest Updates
+        </mj-text>
+        <mj-table>
+          <tr style="border-bottom: 1px solid #eee;">
+            <td style="padding: 15px 0;">AI Development</td>
+            <td style="padding: 15px 0; text-align: right;">→</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #eee;">
+            <td style="padding: 15px 0;">Cloud Computing</td>
+            <td style="padding: 15px 0; text-align: right;">→</td>
+          </tr>
+          <tr>
+            <td style="padding: 15px 0;">Cybersecurity</td>
+            <td style="padding: 15px 0; text-align: right;">→</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Spacer -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="40px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- CTA Section -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="24px" font-weight="600">
+          Stay Updated
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          Get the latest tech news delivered to your inbox
+        </mj-text>
+        <mj-button>
+          Subscribe Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#f8f8f8" padding="40px 20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#000000" href="https://twitter.com" name="twitter"></mj-social-element>
+          <mj-social-element background-color="#000000" href="https://linkedin.com" name="linkedin"></mj-social-element>
+          <mj-social-element background-color="#000000" href="https://github.com" name="github"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#666666" font-size="12px">
+          © 2024 Tech/Minimal. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

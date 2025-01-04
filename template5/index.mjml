@@ -1,0 +1,122 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Culinary Delights Weekly Newsletter
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Playfair+Display" name="Playfair Display"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text color="#333333" font-size="16px" line-height="1.5"></mj-text>
+    </mj-attributes>
+    <mj-style>
+      .header-text { font-family: 'Playfair Display', serif; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f8f5f2">
+    <mj-raw>
+      <!-- Header with Logo -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" padding="10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Banner -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Restaurant Interior" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918660929101_photo-1414235077428-338989a2e8c0_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Welcome Text -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="40px">
+      <mj-column>
+        <mj-text align="center" color="#1a1a1a" font-family="Playfair Display, serif" font-size="32px">
+          Welcome to Our Culinary World
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          Experience the finest dining and seasonal specialties
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Featured Dishes - Two Columns -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column width="50%">
+        <mj-image alt="Seasonal Dish" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918672007102_photo-1504674900247-0877df9cc836_w_600.png" width="300px"></mj-image>
+        <mj-text align="center" font-family="Playfair Display, serif" font-size="24px">
+          Seasonal Menu
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          Fresh ingredients, expertly prepared
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Special Dessert" height="200px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918679354103_photo-1551024506-0bccd828d307.png" width="300px"></mj-image>
+        <mj-text align="center" font-family="Playfair Display, serif" font-size="24px">
+          Signature Desserts
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          Sweet endings to perfect meals
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Special Offer -->
+    </mj-raw>
+    <mj-section background-color="#1a1a1a" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-family="Playfair Display, serif" font-size="24px">
+          Special Offer
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          Enjoy 20% off your first visit this month
+        </mj-text>
+        <mj-button background-color="#c8a97e" border-radius="4px" color="#ffffff" href="#">
+          Book a Table
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Chef's Recommendation -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column width="40%">
+        <mj-image alt="Chef Special" border-radius="125px" height="250px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/1735918691323104_photo-1600565193348-f74bd3c7ccdf.png" width="250px"></mj-image>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text font-family="Playfair Display, serif" font-size="24px">
+          Chef's Recommendation
+        </mj-text>
+        <mj-text color="#666666">
+          "Try our new truffle-infused risotto, made with locally sourced mushrooms and aged Parmesan."
+        </mj-text>
+        <mj-text color="#666666" font-style="italic">
+          - Executive Chef Michael
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#f8f5f2">
+      <mj-column>
+        <mj-social align="center" font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#c8a97e" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/mfpkmlhg2mva_os9dl4p1_image.png"></mj-social-element>
+          <mj-social-element background-color="#c8a97e" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bc9v51iia1minm3_7hoz_image.png"></mj-social-element>
+          <mj-social-element background-color="#c8a97e" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yalfxko4tea86assl7rfg_image.png"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#666666" font-size="12px">
+          123 Gourmet Street, Culinary City | Tel: (555) 123-4567
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="12px">
+          © 2024 Fine Dining Restaurant. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

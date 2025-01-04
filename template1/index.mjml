@@ -1,0 +1,122 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Best Recipes
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css?family=Helvetica" name="Helvetica"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text color="#000000" font-size="16px" line-height="1.5"></mj-text>
+      <mj-button background-color="#f45e43" border-radius="3px" color="white"></mj-button>
+    </mj-attributes>
+    <mj-style>
+      .recipe-card {
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f4f4f4">
+    <mj-raw>
+      <!-- Header with Logo -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px 0">
+      <mj-column>
+        <mj-image alt="Restaurant Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hero Image Section -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Burger" padding="0" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/lpegypjetcqboxuiwv5e7_image.png" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Intro Text -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="40px 0 20px">
+      <mj-column>
+        <mj-text align="center" font-size="24px" font-weight="bold">
+          See some of our BEST recipes
+        </mj-text>
+        <mj-text align="center" color="#666666" font-size="16px" padding="20px 40px">
+          This is where you can put your most important content. Tell them your best news any size or style. Maybe you need to link to something. Whether it's an important announcement, new products or services, or you're going to show about a special promotion - tell it clearly, you're excited. Make it real fun.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Recipe Cards -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column css-class="recipe-card" width="100%">
+        <mj-image alt="Cocktail" height="300px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/4fgwic1y8ynasg8up4_c2_image.png" width="400px"></mj-image>
+        <mj-text align="center" font-size="20px" font-weight="bold" padding-top="20px">
+          Mix Your Cocktail
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          Add a line or two about what this story is about
+        </mj-text>
+        <mj-button href="#" padding-bottom="30px">
+          Learn More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column css-class="recipe-card" width="100%">
+        <mj-image alt="Dinner" height="300px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/dqjnflporswvmpxe9jwgm_image.png" width="400px"></mj-image>
+        <mj-text align="center" font-size="20px" font-weight="bold" padding-top="20px">
+          Start A Dinner For 2
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          Add a line or two about what this story is about
+        </mj-text>
+        <mj-button href="#" padding-bottom="30px">
+          Learn More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column css-class="recipe-card" width="100%">
+        <mj-image alt="Raspberry Cake" height="300px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/wq7y3quyz4kpfzmfccqcy_image.png" width="400px"></mj-image>
+        <mj-text align="center" font-size="20px" font-weight="bold" padding-top="20px">
+          Our Favorite Raspberry Cake
+        </mj-text>
+        <mj-text align="center" color="#666666">
+          Add a line or two about what this story is about
+        </mj-text>
+        <mj-button href="#" padding-bottom="30px">
+          Learn More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Instagram Section -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="20px" font-weight="bold">
+          SHARE YOUR PLATE WITH US
+        </mj-text>
+        <mj-social align="center" icon-size="24px" mode="horizontal">
+          <mj-social-element name="twitter" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180069371_xkd0kfnytbfywsofk8t6.png"></mj-social-element>
+          <mj-social-element name="facebook" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180102922_ulyduaza1votoacctoi3.png"></mj-social-element>
+          <mj-social-element name="instagram" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17359180131603_wtefhsfwaapcdbz7knqw.png"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="16px" padding-top="10px">
+          @LOOKATMYPLATE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#666666" font-size="12px" padding-top="10px">
+          No longer want to receive these emails? <a href="#" style="color: #666666;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

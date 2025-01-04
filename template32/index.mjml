@@ -1,0 +1,139 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      BLACK FRIDAY INDUSTRIAL
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700" name="Roboto Mono"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto Mono, monospace"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#1a1a1a">
+    <mj-raw>
+      <!-- 工业风格标题 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ff4d4d" font-size="14px" letter-spacing="2px">
+          INDUSTRIAL SERIES
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="48px" font-weight="bold" padding="20px 0">
+          BLACK FRIDAY
+        </mj-text>
+        <mj-text align="center" color="#999999" font-size="18px">
+          ENGINEERED FOR PERFORMANCE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 工业风格主图 -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image alt="Industrial" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591858424691_photo-1581091226825-a6a2a5aee158_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 工业产品展示 -->
+    </mj-raw>
+    <mj-section background-color="#262626" padding="20px">
+      <mj-column width="50%">
+        <mj-image alt="Tools" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591858805992_photo-1572981779307-38b8cabb2407_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="left" color="#ffffff" font-size="20px" padding="20px">
+          POWER TOOLS
+        </mj-text>
+        <mj-text align="left" color="#ff4d4d" font-size="16px">
+          50% OFF
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Equipment" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591859045593_photo-1581092580497-e0d23cbdf1dc_w_400_h_300_fit_crop.png"></mj-image>
+        <mj-text align="left" color="#ffffff" font-size="20px" padding="20px">
+          EQUIPMENT
+        </mj-text>
+        <mj-text align="left" color="#ff4d4d" font-size="16px">
+          60% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 工业风格优惠码 -->
+    </mj-raw>
+    <mj-section background-color="#ff4d4d" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="24px" font-weight="bold">
+          USE CODE: INDUSTRIAL24
+        </mj-text>
+        <mj-text align="center" color="#000000" font-size="16px" padding-top="10px">
+          FOR ADDITIONAL 20% OFF
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 产品规格展示 -->
+    </mj-raw>
+    <mj-section background-color="#262626" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image alt="Machinery" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591859311194_photo-1572981779307-38b8cabb2407_w_300_h_200_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="16px" padding="10px">
+          MACHINERY
+        </mj-text>
+        <mj-text align="center" color="#999999" font-size="14px">
+          HEAVY DUTY
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Safety" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591859596995_photo-1581092580497-e0d23cbdf1dc_w_300_h_200_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="16px" padding="10px">
+          SAFETY GEAR
+        </mj-text>
+        <mj-text align="center" color="#999999" font-size="14px">
+          CERTIFIED
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Workshop" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173591859822996_photo-1581091226825-a6a2a5aee158_w_300_h_200_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="16px" padding="10px">
+          WORKSHOP
+        </mj-text>
+        <mj-text align="center" color="#999999" font-size="14px">
+          EQUIPMENT
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 技术规格 -->
+    </mj-raw>
+    <mj-section background-color="#000000" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="16px" letter-spacing="2px">
+          TECHNICAL SPECIFICATIONS
+        </mj-text>
+        <mj-text align="center" color="#999999" font-size="14px" padding-top="10px">
+          • INDUSTRIAL GRADE •
+        </mj-text>
+        <mj-text align="center" color="#999999" font-size="14px">
+          • PROFESSIONAL SERIES •
+        </mj-text>
+        <mj-text align="center" color="#999999" font-size="14px">
+          • LIFETIME WARRANTY •
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- 工业风格页脚 -->
+    </mj-raw>
+    <mj-section background-color="#1a1a1a" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="14px">
+          ENGINEERED WITH PRECISION
+        </mj-text>
+        <mj-text align="center" color="#999999" font-size="12px" padding-top="20px">
+          © 2024 INDUSTRIAL TOOLS & CO.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
