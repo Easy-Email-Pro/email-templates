@@ -1,0 +1,97 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Spring Collection 2024
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap" name="Cormorant Garamond"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Cormorant Garamond, Georgia, serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#F5F5F5">
+    <mj-section background-color="#E8F3D6" padding="10px">
+      <mj-column>
+        <mj-text align="center" color="#2C3639" font-size="16px" font-weight="600">
+          NEW COLLECTION PREVIEW - FREE SHIPPING ON ALL ORDERS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#2C3639" font-size="60px" font-weight="600">
+          Spring Collection
+        </mj-text>
+        <mj-text align="center" color="#7D9D9C" font-size="24px" padding-top="10px">
+          Embrace the New Season
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px">
+      <mj-column width="50%">
+        <mj-image alt="Spring Fashion" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612573817_photo-1515372039744-b8f02a3ae446_w_500_h_700_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2C3639" font-size="24px" padding="20px">
+          Women's Collection
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Men's Fashion" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612616358_photo-1488161628813-04466f872be2_w_500_h_700_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2C3639" font-size="24px" padding="20px">
+          Men's Collection
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="40px">
+      <mj-column width="33.33%">
+        <mj-image alt="Accessories" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612640399_photo-1485230895905-ec40ba36b9bc_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2C3639" font-size="20px" padding="10px">
+          Accessories
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Shoes" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173626126634810_photo-1503342217505-b0a15ec3261c_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2C3639" font-size="20px" padding="10px">
+          Footwear
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Bags" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173626126867411_photo-1492707892479-7bc8d5a4ee93_w_300_h_300_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#2C3639" font-size="20px" padding="10px">
+          Bags
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#E8F3D6" padding="30px">
+      <mj-column>
+        <mj-text align="center" color="#2C3639" font-size="24px" font-weight="600">
+          EARLY ACCESS OFFER
+        </mj-text>
+        <mj-text align="center" color="#2C3639" font-size="18px" padding="10px">
+          Get 20% Off Your First Purchase
+        </mj-text>
+        <mj-button background-color="#2C3639" color="#ffffff" font-size="16px" font-weight="600" padding="20px">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="instagram"></mj-social-element>
+          <mj-social-element href="#" name="pinterest"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#2C3639" font-size="12px" padding="10px">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

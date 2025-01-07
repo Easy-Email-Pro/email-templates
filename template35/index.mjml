@@ -1,0 +1,107 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Exclusive 24-Hour Sale
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" name="DM Sans"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="DM Sans, Arial, sans-serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+    <mj-style>
+      .gradient-text {
+        background: linear-gradient(90deg, #FF6B6B 0%, #FFB86C 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#FAFAFA">
+    <mj-section background-color="#111111" padding="12px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="14px" letter-spacing="1px">
+          24 HOURS ONLY - EXCLUSIVE DEALS INSIDE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="30px">
+      <mj-column>
+        <mj-image alt="Logo" src="https://via.placeholder.com/150x50" width="120px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 30px 40px">
+      <mj-column>
+        <mj-text align="center" color="#111111" font-size="42px" font-weight="700" line-height="1.2">
+          24-Hour Flash Sale
+        </mj-text>
+        <mj-text align="center" color="#FF6B6B" font-size="24px" font-weight="500" padding="20px 0">
+          Up to 60% Off Premium Items
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image alt="Hero" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173626134403212_photo-1441984904996-e0b6ba687e04_w_600.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="40px 20px">
+      <mj-column width="33.33%">
+        <mj-image alt="Premium Watch" padding="0 10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173626135116713_photo-1523275335684-37898b6baf30.png"></mj-image>
+        <mj-text align="center" font-size="18px" padding="15px 0 5px">
+          Premium Watch
+        </mj-text>
+        <mj-text align="center" color="#FF6B6B" font-size="16px" font-weight="700">
+          <strike style="color: #999">$299</strike> $149
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Leather Bag" padding="0 10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173626135725814_photo-1491637639811-60e2756cc1c7_w_600.png"></mj-image>
+        <mj-text align="center" font-size="18px" padding="15px 0 5px">
+          Leather Bag
+        </mj-text>
+        <mj-text align="center" color="#FF6B6B" font-size="16px" font-weight="700">
+          <strike style="color: #999">$199</strike> $89
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Sneakers" padding="0 10px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/173626136207315_photo-1595950653106-6c9ebd614d3a.png"></mj-image>
+        <mj-text align="center" font-size="18px" padding="15px 0 5px">
+          Limited Sneakers
+        </mj-text>
+        <mj-text align="center" color="#FF6B6B" font-size="16px" font-weight="700">
+          <strike style="color: #999">$159</strike> $79
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#111111" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-weight="700">
+          Use Code: FLASH60
+        </mj-text>
+        <mj-button background-color="#FF6B6B" border-radius="4px" color="#ffffff" font-size="16px" font-weight="700" href="#" padding="25px">
+          SHOP NOW
+        </mj-button>
+        <mj-text align="center" color="#999999" font-size="14px" padding-top="20px">
+          Offer ends in 24 hours. While stocks last.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="40px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="18px" font-weight="700" padding-bottom="20px">
+          Follow Us
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#111111" href="#" name="instagram"></mj-social-element>
+          <mj-social-element background-color="#111111" href="#" name="facebook"></mj-social-element>
+          <mj-social-element background-color="#111111" href="#" name="twitter"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#999999" font-size="12px" padding="20px 0 0">
+          © 2024 Your Brand. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,99 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Next Gen Tech Launch
+    </mj-title>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&display=swap" name="Space Grotesk"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Space Grotesk, Arial, sans-serif"></mj-all>
+      <mj-text padding="0"></mj-text>
+      <mj-section padding="0"></mj-section>
+      <mj-image padding="0"></mj-image>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#0A0A0A">
+    <mj-section background-color="#00FF94" padding="12px">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="16px" font-weight="600">
+          FUTURE IS NOW | PRE-ORDER AVAILABLE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image alt="Logo" href="https://www.easyemail.pro/?utm_source=email_template" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/hwm526rq8_e9s0ynhimam_image.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0A0A0A" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#00FF94" font-size="14px" letter-spacing="2px">
+          INTRODUCING
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="48px" font-weight="600" padding="20px">
+          NEXT GEN TECH
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0A0A0A">
+      <mj-column>
+        <mj-image alt="Tech Product" padding="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612366321_photo-1526738549149-8e07eca6c147_w_800_h_500_fit_crop.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0A0A0A" padding="40px 0px">
+      <mj-column width="50%">
+        <mj-image alt="Feature 1" padding="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612405852_photo-1550009158-9ebf69173e03_w_400_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="24px" padding="20px">
+          AI Powered
+        </mj-text>
+        <mj-text align="center" color="#00FF94" font-size="16px">
+          Next-Gen Intelligence
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image alt="Feature 2" padding="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612430173_photo-1535223289827-42f1e9919769_w_400_h_400_fit_crop.png"></mj-image>
+        <mj-text align="center" color="#ffffff" font-size="24px" padding="20px">
+          8K Display
+        </mj-text>
+        <mj-text align="center" color="#00FF94" font-size="16px">
+          Ultra Clear Vision
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#111111" padding="40px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          PRE-ORDER NOW
+        </mj-text>
+        <mj-text align="center" color="#00FF94" font-size="36px" font-weight="bold" padding="20px">
+          SAVE 30%
+        </mj-text>
+        <mj-button background-color="#00FF94" color="#000000" font-size="16px" font-weight="600">
+          ORDER NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0A0A0A" padding="30px">
+      <mj-column width="33.33%">
+        <mj-image alt="Tech 1" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612452544_photo-1451187580459-43490279c0fa_w_300_h_200_fit_crop.png"></mj-image>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Tech 2" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612475605_photo-1485827404703-89b55fcc595e_w_300_h_200_fit_crop.png"></mj-image>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image alt="Tech 3" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/17362612497986_photo-1480694313141-fce5e697ee25_w_300_h_200_fit_crop.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#111111" padding="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-color="#00FF94" icon-size="30px" mode="horizontal">
+          <mj-social-element href="#" name="facebook"></mj-social-element>
+          <mj-social-element href="#" name="twitter"></mj-social-element>
+          <mj-social-element href="#" name="youtube"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" color="#ffffff" font-size="12px" padding="10px">
+          © 2024 Tech Innovation. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
