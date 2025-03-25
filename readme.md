@@ -2,6 +2,9 @@
 
 A curated collection of responsive email templates built with MJML and HTML. These templates are designed to work across different email clients and devices.
 
+## Live demo 
+https://www.easyemail.pro/templates
+
 ## 🚀 Features
 
 - Built with MJML for responsive design
