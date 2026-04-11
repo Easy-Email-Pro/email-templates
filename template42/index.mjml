@@ -1,0 +1,131 @@
+<mjml>
+  <mj-head>
+    <mj-style>.mjbody a, .mjbody a:hover, .mjbody a:active, .mjbody a[href], .mjbody a[href]:hover, .mjbody a[href]:active {color: inherit;text-decoration: underline}</mj-style>
+    <mj-breakpoint width="480px" />
+  </mj-head>
+  <mj-body width="700px" background-color="#d6d6d5" css-class="mjbody">
+    <mj-section background-repeat="no-repeat" padding-top="32px" padding-bottom="0px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#e8e8e8"><mj-group><mj-column width="70%">
+
+          <mj-image align="left" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/swe0g4n4_t11gdmxv_7id5k66p_uber-logo.png" alt="Uber" width="94px"></mj-image>
+
+        </mj-column><mj-column width="30%">
+
+          <mj-text align="right" color="#4b4b4b" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="12px" line-height="16px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">Nov 28, 2025</mj-text>
+
+          <mj-text align="right" color="#4b4b4b" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="12px" line-height="16px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">8:32 AM</mj-text>
+
+        </mj-column></mj-group></mj-section><mj-section background-repeat="no-repeat" padding-top="24px" padding-bottom="32px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#e8e8e8"><mj-column padding-right="16px" padding-left="15px" width="70%">
+
+        <mj-text color="#000" font-family="UberMoveBold, Arial, sans-serif" font-size="44px" line-height="52px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="16px" padding-left="0px" font-weight="700">Thanks for purchasing an Uber Gift, Smiles Davis</mj-text>
+
+        <mj-text color="#000" font-family="UberMoveTextRegular, Arial, sans-serif" font-size="18px" line-height="28px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="400">They're going to love it. Check your order details below.</mj-text>
+
+      </mj-column><mj-column vertical-align="bottom" width="30%">
+
+        <mj-image align="right" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/kbvxvq4m_7z7935zt_lp1753c2_uber-gift.png" alt="Uber Gift" width="160px"></mj-image>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="32px" padding-bottom="0px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-column width="50%">
+
+        <mj-text color="#000" font-family="UberMoveBold, Arial, sans-serif" font-size="32px" line-height="40px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="700">Total</mj-text>
+
+      </mj-column><mj-column width="50%">
+
+        <mj-text align="right" color="#000" font-family="UberMoveBold, Arial, sans-serif" font-size="32px" line-height="40px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="700">$425.00</mj-text>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="24px" padding-bottom="0px" padding-left="64px" padding-right="64px" padding="20px 0" background-color="#ffffff"><mj-column>
+
+        <mj-divider border-width="1px" border-color="#f3f3f3" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px"></mj-divider>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="15px" padding-bottom="15px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-column width="50%">
+
+        <mj-text color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">Gift Card Amount</mj-text>
+
+      </mj-column><mj-column width="50%">
+
+        <mj-text align="right" color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">$500.00</mj-text>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="0px" padding-bottom="15px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-column width="50%">
+
+        <mj-text color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">Gift card purchase discount</mj-text>
+
+      </mj-column><mj-column width="50%">
+
+        <mj-text align="right" color="#080" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500" css-class="fare-green">-$75.00</mj-text>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="0px" padding-bottom="16px" padding-left="64px" padding-right="64px" padding="20px 0" background-color="#ffffff"><mj-column>
+
+        <mj-divider border-width="1px" border-color="#f3f3f3" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px"></mj-divider>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="16px" padding-bottom="8px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-column>
+
+        <mj-text color="#000" font-family="UberMoveBold, Arial, sans-serif" font-size="24px" line-height="32px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="700">Payments</mj-text>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="12px" padding-bottom="12px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-group><mj-column width="20%">
+
+          <mj-image height="32px" padding="10px 25px" padding-top="0px" padding-right="18px" padding-bottom="0px" padding-left="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/phj3o93z_jhgxl95k_8k5851nl_mastercard_3x.png" alt="Mastercard" width="35px"></mj-image>
+
+        </mj-column><mj-column width="45%">
+
+          <mj-text color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">Capital One ••••6500</mj-text>
+
+          <mj-text color="#4b4b4b" font-family="UberMoveTextRegular, Arial, sans-serif" font-size="14px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="400">Nov 28, 2025 8:32 AM</mj-text>
+
+        </mj-column><mj-column width="33.333333333333336%">
+
+          <mj-text align="right" color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">$425.00</mj-text>
+
+        </mj-column></mj-group></mj-section><mj-section background-repeat="no-repeat" padding-top="0px" padding-bottom="8px" padding-left="64px" padding-right="64px" padding="20px 0" background-color="#ffffff"><mj-column>
+
+        <mj-divider border-width="1px" border-color="#f3f3f3" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px"></mj-divider>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="16px" padding-bottom="16px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-column>
+
+        <mj-text color="#000" font-family="UberMoveBold, Arial, sans-serif" font-size="24px" line-height="32px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="700">Additional information</mj-text>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="10px" padding-bottom="10px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-group><mj-column width="40%">
+
+          <mj-text color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">Gift from</mj-text>
+
+        </mj-column><mj-column width="60%">
+
+          <mj-text align="right" color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">Smiles Davis</mj-text>
+
+        </mj-column></mj-group></mj-section><mj-section background-repeat="no-repeat" padding-top="0px" padding-bottom="0px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-group><mj-column width="40%">
+
+          <mj-text color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">Gift to</mj-text>
+
+        </mj-column><mj-column width="60%">
+
+          <mj-text align="right" color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" font-weight="500">Really Good Emails</mj-text>
+
+        </mj-column></mj-group></mj-section><mj-section background-repeat="no-repeat" padding-top="16px" padding-bottom="16px" padding-left="64px" padding-right="64px" padding="20px 0" background-color="#ffffff"><mj-column>
+
+        <mj-divider border-width="1px" border-color="#f3f3f3" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px"></mj-divider>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="16px" padding-bottom="32px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#ffffff"><mj-column padding-top="16px" padding-right="16px" padding-bottom="16px" padding-left="16px" border-radius="16px">
+
+        <mj-text color="#000" font-family="UberMoveBold, Arial, sans-serif" font-size="20px" line-height="28px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="16px" padding-left="0px" font-weight="700">Need help?</mj-text>
+
+        <mj-text color="#000" font-family="UberMoveTextRegular, Arial, sans-serif" font-size="14px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="24px" padding-left="0px" font-weight="400">Our support team is happy to help with any concern you might have.</mj-text>
+
+        <mj-button background-color="#f3f3f3" border-radius="8px" color="#000" font-family="UberMoveTextMedium, Arial, sans-serif" font-size="14px" font-weight="500" line-height="16px" inner-padding="10px 16px 10px 16px" padding="10px 25px" padding-right="0px" padding-left="0px" href="https://help.uber.com" width="100%"><img src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/rrb7gbtx_l2bz9vs3_wv4rohin_icon_support_email.png" width="20" height="20" style="vertical-align:middle;margin-right:8px;" />Contact support</mj-button>
+
+      </mj-column></mj-section><mj-section background-repeat="no-repeat" padding-top="32px" padding-bottom="32px" padding-left="32px" padding-right="32px" padding="20px 0" background-color="#000000"><mj-column width="50%">
+
+        <mj-text color="#a6a6a6" font-family="UberMoveTextRegular, Arial, sans-serif" font-size="14px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" css-class="entity-info">Uber B.V.<br />Burgerweeshuispad 301<br />1076 HR Amsterdam</mj-text>
+
+        <mj-image align="left" padding="10px 25px" padding-top="16px" padding-right="0px" padding-bottom="0px" padding-left="0px" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/2dfzkkuv_u3tjup5z_3a6pixnk_uber_footer_icon.png" alt="Uber" width="74px"></mj-image>
+
+      </mj-column><mj-column width="50%">
+
+        <mj-text align="right" color="#000" font-family="UberMoveTextRegular, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px"><span><a href="https://auth.uber.com/login">My Account</a></span></mj-text>
+
+        <mj-text align="right" color="#000" font-family="UberMoveTextRegular, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="16px" padding-right="0px" padding-bottom="0px" padding-left="0px"><span><a href="https://www.uber.com/privacy">Privacy policy</a></span></mj-text>
+
+        <mj-text align="right" color="#000" font-family="UberMoveTextRegular, Arial, sans-serif" font-size="16px" line-height="20px" padding="10px 25px" padding-top="16px" padding-right="0px" padding-bottom="0px" padding-left="0px"><span><a href="https://www.uber.com/legal">Terms and Conditions</a></span></mj-text>
+
+        <mj-social align="right" font-family="UberMoveTextRegular, Arial, sans-serif" icon-size="30px" mode="horizontal" padding="10px 25px" padding-top="16px" padding-right="0px" padding-bottom="0px" padding-left="0px"><mj-social-element font-family="UberMoveTextRegular, Arial, sans-serif" padding="4px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="0px" href="https://www.facebook.com/uber" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/cxhzkclel5ojn_dzo1o7v_facebook.png"></mj-social-element><mj-social-element font-family="UberMoveTextRegular, Arial, sans-serif" padding="4px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="8px" href="https://www.instagram.com/uber" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/yyeuinjdwnclhwonzm04p_instagram.png"></mj-social-element><mj-social-element font-family="UberMoveTextRegular, Arial, sans-serif" padding="4px" padding-top="0px" padding-right="0px" padding-bottom="0px" padding-left="8px" href="https://www.youtube.com/uber" src="https://cdn.shopify.com/s/files/1/0863/8971/9346/files/j5wv-vgx4tse62wzjde4q_youtube.png"></mj-social-element></mj-social>
+
+      </mj-column></mj-section>
+  </mj-body>
+</mjml>
